@@ -1,0 +1,22 @@
+.topnav {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+
+.sobre-pt1 {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.copyright {
+  position: center;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
