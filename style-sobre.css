@@ -4,10 +4,29 @@
   margin: 0 auto;
 }
 
-.sobre-pt1 {
+em strong {
+  color: rgb(139, 101, 73);
+}
+
+section {
   position: relative;
   width: 940px;
   margin: 0 auto;
+}
+
+h1 strong {
+  color: rgb(245, 103, 1);
+}
+
+.imagem-sobre1 {
+  width: 450px;
+  float: left;
+  margin-block-end: 0em;
+}
+
+.imagem-sobre2 {
+  width: 50%;
+  float: right;
 }
 
 footer {
