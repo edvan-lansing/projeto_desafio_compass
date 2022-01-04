@@ -4,6 +4,14 @@
   margin: 0 auto;
 }
 
+.card-largura {
+  width: 18rem;
+}
+
+.card-figura {
+  width: 70px;
+}
+
 em strong {
   color: rgb(139, 101, 73);
 }
@@ -18,6 +26,10 @@ h1 strong {
   color: rgb(245, 103, 1);
 }
 
+p {
+  font-size: 22pxs;
+}
+
 .imagem-sobre1 {
   width: 450px;
   float: left;
@@ -27,6 +39,12 @@ h1 strong {
 .imagem-sobre2 {
   width: 50%;
   float: right;
+}
+
+.sobre {
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px 0;
 }
 
 footer {
